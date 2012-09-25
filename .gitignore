@@ -1,0 +1,10 @@
+.classpath
+.mymetadata
+.project
+.settings/
+.DS_Store
+target/
+web/WEB-INF/classes
+build/
+*.[class]
+*~
