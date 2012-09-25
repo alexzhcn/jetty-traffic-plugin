@@ -3,7 +3,7 @@ package com.sohu.sce.appserver.traffic;
 /**
  * traffic listener, implements this listener, register into TrafficConnector
  * in\out will be called when traffic in\out
- * @author alex
+ * @author alexzhang(zhangyuxin85@gmail.com)
  *
  */
 public interface TrafficListener {

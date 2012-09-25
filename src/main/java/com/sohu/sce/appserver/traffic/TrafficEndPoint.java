@@ -14,7 +14,7 @@ import org.eclipse.jetty.io.nio.SelectorManager;
 
 /**
  * 
- * @author alex
+ * @author alexzhang(zhangyuxin85@gmail.com)
  * 
  */
 public class TrafficEndPoint extends SelectChannelEndPoint {

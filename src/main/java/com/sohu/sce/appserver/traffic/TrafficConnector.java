@@ -13,7 +13,7 @@ import org.eclipse.jetty.server.nio.SelectChannelConnector;
 /**
  * sohu net traffic selected channel connector
  * 
- * @author alex
+ * @author alexzhang (zhangyuxin85@gmail.com)
  * 
  */
 public class TrafficConnector extends
